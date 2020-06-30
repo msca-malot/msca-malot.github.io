@@ -429,8 +429,6 @@
             
               <li><a href="http://github.com/msca-malot" target="_blank" class="icon-github" title="GitHub"></a></li>
             
-              <li><a href="https://github.com/longaspire" target="_blank" class="icon-facebook" title="Facebook"></a></li>
-            
             </ul>
           </section>
         </nav>

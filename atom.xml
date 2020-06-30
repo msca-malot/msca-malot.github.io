@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://msca-malot.github.io/</id>
 	<title>MALOT</title>
-	<updated>2020-06-30T17:13:37+02:00</updated>
+	<updated>2020-06-30T17:29:07+02:00</updated>
 
 	<subtitle>The EU MSCA Project</subtitle>
 
@@ -42,7 +42,7 @@
 				</author>
 			
 			<summary>The task planning of July 2020.</summary>
-			<content type="html" xml:base="https://msca-malot.github.io/project%20management/2-plans-july-2020/">&lt;p&gt;This plan this month will include:&lt;/p&gt;
+			<content type="html" xml:base="https://msca-malot.github.io/project%20management/2-plans-july-2020/">&lt;p&gt;The plan of this month include:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;discuss with the supervisor and finish the career development plan.&lt;/li&gt;
   &lt;li&gt;start to write a survey paper about IoT data management and data quality control.&lt;/li&gt;
