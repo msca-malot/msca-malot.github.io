@@ -31,27 +31,35 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="The EU MSCA Project">
-	
-	
-	
-	
-	
+	<meta name="description" content="An MSCA Project of the EU">
+	<meta name="google-site-verification" content="QMR4VKF8XVJTq3ZCQPT9m6gGZ4E-VUjmtOFQoNrrvGY">
+	<meta name="msvalidate.01" content="F155403EF777BAAE0E5ED44F5E93A691" >
+	<meta name="yandex-verification" content="">
+	<link rel="author" href="">
+	<meta name="alexaVerifyID" content="">
 	
 	<link rel="canonical" href="https://msca-malot.github.io/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="The EU MSCA Project">
+	<meta property="og:description" content="An MSCA Project of the EU">
 	<meta property="og:url" content="https://msca-malot.github.io/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="MALOT">
 	
+	<meta property="article:author" content="https://www.facebook.com/stevenhuanlee">
+
+
 	
-
-
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="LeeSte7en">
+	<meta name="twitter:creator" content="LeeSte7en">
+	<meta name="twitter:title" content="RSS Feed (Styled)">
+	<meta name="twitter:description" content="An MSCA Project of the EU">
+	
 	
 
 	<link type="text/plain" rel="author" href="https://msca-malot.github.io/humans.txt">
@@ -245,8 +253,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://msca-malot.github.io/" title="MALOT – Managing Mobility Data Quality for Location of Things">
-				<img src="https://msca-malot.github.io/assets/img/logo.png" alt="MALOT – Managing Mobility Data Quality for Location of Things">
+			<a id="logo" href="https://msca-malot.github.io/" title="MALOT – New adaptive techniques for Location of Things data quality management">
+				<img src="https://msca-malot.github.io/assets/img/logo.png" alt="MALOT – New adaptive techniques for Location of Things data quality management">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -324,7 +332,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              The EU MSCA Project
+              An MSCA Project of the EU
               <a href="https://msca-malot.github.io/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -421,13 +429,17 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created by <a href="https://longaspire.github.io">Huan Li</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created by <a href="https://longaspire.github.io">Huan Li</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="#">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
               <li><a href="http://github.com/msca-malot" target="_blank" class="icon-github" title="GitHub"></a></li>
+            
+              <li><a href="http://twitter.com/LeeSte7en" target="_blank" class="icon-twitter" title="Twitter"></a></li>
+            
+              <li><a href="https://www.facebook.com/stevenhuanlee" target="_blank" class="icon-facebook" title="Facebook"></a></li>
             
             </ul>
           </section>
