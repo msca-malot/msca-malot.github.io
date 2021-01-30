@@ -70,7 +70,7 @@
 
 	<link rel="icon" sizes="32x32" href="https://msca-malot.github.io/assets/img/favicon-32x32.png">
 
-	
+	<link rel="icon" sizes="192x192" href="https://msca-malot.github.io/assets/img/touch-icon-192x192.png">
 
 	
 
@@ -112,6 +112,14 @@
     <section class="top-bar-section">
 
       <ul class="right">
+        
+
+              
+
+
+
+          
+          
         
 
               
@@ -198,6 +206,21 @@
             
             
               <li><a  href="https://msca-malot.github.io/info/">About</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://msca-malot.github.io/publication/">Publication</a></li>
               <li class="divider"></li>
 
             
