@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://msca-malot.github.io/</id>
 	<title>MALOT</title>
-	<updated>2021-01-30T04:04:19+01:00</updated>
+	<updated>2022-02-02T14:08:30+01:00</updated>
 
 	<subtitle>The EU MSCA Individual Fellowship</subtitle>
 
@@ -24,6 +24,107 @@
 
 	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://msca-malot.github.io/research/1-sigmod_tutorial/</id>
+			<title>SIGMOD Tutorial on IoT Spatial Data Quality</title>
+			<link href="https://msca-malot.github.io/research/1-sigmod_tutorial/" rel="alternate" type="text/html" title="SIGMOD Tutorial on IoT Spatial Data Quality" />
+			<updated>2022-02-01T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>huan li</name>
+					
+					
+					
+				</author>
+			
+			<summary>Our proposal submitted to SIGMOD 2022 is now accepted</summary>
+			<content type="html" xml:base="https://msca-malot.github.io/research/1-sigmod_tutorial/">&lt;p&gt;Our proposal submitted to SIGMOD 2022 tutorial track has been accepted.
+The tutorial utilizes the structure of our survey paper &lt;strong&gt;Spatial Data Quality in the Internet of Things: Management, Exploitation, and Prospects&lt;/strong&gt; and will be focusing on comparing the methodologies of representative works.&lt;/p&gt;
+
+&lt;p&gt;We hope to release the full text and other relevant materials soon.&lt;/p&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="research" />
+			
+
+			<published>2022-02-01T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://msca-malot.github.io/research/1-csur/</id>
+			<title>Knowledge Repository on Subsequence Outlier</title>
+			<link href="https://msca-malot.github.io/research/1-csur/" rel="alternate" type="text/html" title="Knowledge Repository on Subsequence Outlier" />
+			<updated>2021-12-02T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>huan li</name>
+					
+					
+					
+				</author>
+			
+			<summary>Useful resources for subsequence outlier detection</summary>
+			<content type="html" xml:base="https://msca-malot.github.io/research/1-csur/">&lt;p&gt;Checkout our public repository on &lt;a href=&quot;https://github.com/msca-malot/awesome-subsequence-outlier&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="research" />
+			
+
+			<published>2021-12-02T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://msca-malot.github.io/research/1-csur/</id>
+			<title>ACM Computing Surveys Paper on IoT Spatial Data Quality</title>
+			<link href="https://msca-malot.github.io/research/1-csur/" rel="alternate" type="text/html" title="ACM Computing Surveys Paper on IoT Spatial Data Quality" />
+			<updated>2021-11-25T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>huan li</name>
+					
+					
+					
+				</author>
+			
+			<summary>Our full research paper is accepted by one of the flagship journals of the ACM</summary>
+			<content type="html" xml:base="https://msca-malot.github.io/research/1-csur/">&lt;p&gt;Our long survey paper entitled &lt;strong&gt;Spatial Data Quality in the Internet of Things: Management, Exploitation, and Prospects&lt;/strong&gt; has been accepted by ACM Computing Surveys (IF: 10.3). Thanks to the great collaborations with Prof. Christian S. Jensen from AAU, Prof. Hua Lu from RUC, Prof. Muhammad Aamir Cheema from Monash U, and Prof. Bo Tang from SUSTECH.&lt;/p&gt;
+
+&lt;p&gt;The abstract of this paper is as follows.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With the continued deployment of the Internet of Things (IoT), increasing volumes of devices are being deployed that emit massive spatially referenced data. Due in part to the dynamic, decentralized, and heterogeneous architecture of the IoT, the varying and often low quality of spatial IoT data (SID) presents challenges to applications built on top of this data. This survey aims to provide unique insight to practitioners who intend to develop IoT-enabled applications and to researchers who wish to conduct research that relates to data quality in the IoT setting. The survey offers an inventory analysis of major data quality dimensions in SID and covers significant data characteristics and associated quality considerations. The survey summarizes data quality related technologies from both task and technique perspectives. Organizing the technologies from the task perspective, it covers recent progress in SID quality management, encompassing location refinement, uncertainty elimination, outlier removal, fault correction, data integration, and data reduction; and it covers low-quality SID exploitation, encompassing querying, analysis, and decision-making techniques. Finally, the survey covers emerging trends and open issues concerning the quality of SID.*&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A preprint under the Green OpenAccess protocol is available &lt;a href=&quot;https://longaspire.github.io/publication/sid/CSUR_2021_GreenOA.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="research" />
+			
+
+			<published>2021-11-25T00:00:00+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/career%20development/2-pedagogy/</id>
