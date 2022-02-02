@@ -10,23 +10,23 @@
 		
 			<item>
 				<title>SIGMOD Tutorial on IoT Spatial Data Quality</title>
-				<link>https://msca-malot.github.io/research/1-sigmod_tutorial/</link>
+				<link>https://msca-malot.github.io/research/1-sigmod-tutorial/</link>
 				<pubDate>Tue, 01 Feb 2022 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;Our proposal submitted to SIGMOD 2022 tutorial track has been accepted.
-The tutorial utilizes the structure of our survey paper &lt;strong&gt;Spatial Data Quality in the Internet of Things: Management, Exploitation, and Prospects&lt;/strong&gt; and will be focusing on comparing the methodologies of representative works.&lt;/p&gt;
+				<description>&lt;p&gt;Our proposal entitled &lt;strong&gt;Spatial data quality in the IoT era: Management and exploitation&lt;/strong&gt; submitted to SIGMOD 2022 tutorial track has been accepted.
+The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.github.io/publication/sid/CSUR_2021_GreenOA.pdf&quot;&gt;ACM Computing Surveys paper&lt;/a&gt; and will be focusing on comparing the methodologies of representative works.&lt;/p&gt;
 
 &lt;p&gt;We hope to release the full text and other relevant materials soon.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://msca-malot.github.io/research/1-sigmod_tutorial/</guid>
+				<guid isPermaLink="true">https://msca-malot.github.io/research/1-sigmod-tutorial/</guid>
 			</item>
 		
 			<item>
 				<title>Knowledge Repository on Subsequence Outlier</title>
-				<link>https://msca-malot.github.io/research/1-csur/</link>
+				<link>https://msca-malot.github.io/research/1-outlier-subsequence/</link>
 				<pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;Checkout our public repository on &lt;a href=&quot;https://github.com/msca-malot/awesome-subsequence-outlier&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://msca-malot.github.io/research/1-csur/</guid>
+				<guid isPermaLink="true">https://msca-malot.github.io/research/1-outlier-subsequence/</guid>
 			</item>
 		
 			<item>

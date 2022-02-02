@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://msca-malot.github.io/</id>
 	<title>MALOT</title>
-	<updated>2022-02-02T14:08:30+01:00</updated>
+	<updated>2022-02-02T14:15:25+01:00</updated>
 
 	<subtitle>The EU MSCA Individual Fellowship</subtitle>
 
@@ -26,9 +26,9 @@
 
 	
 		<entry>
-			<id>https://msca-malot.github.io/research/1-sigmod_tutorial/</id>
+			<id>https://msca-malot.github.io/research/1-sigmod-tutorial/</id>
 			<title>SIGMOD Tutorial on IoT Spatial Data Quality</title>
-			<link href="https://msca-malot.github.io/research/1-sigmod_tutorial/" rel="alternate" type="text/html" title="SIGMOD Tutorial on IoT Spatial Data Quality" />
+			<link href="https://msca-malot.github.io/research/1-sigmod-tutorial/" rel="alternate" type="text/html" title="SIGMOD Tutorial on IoT Spatial Data Quality" />
 			<updated>2022-02-01T00:00:00+01:00</updated>
 
 			
@@ -42,8 +42,8 @@
 				</author>
 			
 			<summary>Our proposal submitted to SIGMOD 2022 is now accepted</summary>
-			<content type="html" xml:base="https://msca-malot.github.io/research/1-sigmod_tutorial/">&lt;p&gt;Our proposal submitted to SIGMOD 2022 tutorial track has been accepted.
-The tutorial utilizes the structure of our survey paper &lt;strong&gt;Spatial Data Quality in the Internet of Things: Management, Exploitation, and Prospects&lt;/strong&gt; and will be focusing on comparing the methodologies of representative works.&lt;/p&gt;
+			<content type="html" xml:base="https://msca-malot.github.io/research/1-sigmod-tutorial/">&lt;p&gt;Our proposal entitled &lt;strong&gt;Spatial data quality in the IoT era: Management and exploitation&lt;/strong&gt; submitted to SIGMOD 2022 tutorial track has been accepted.
+The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.github.io/publication/sid/CSUR_2021_GreenOA.pdf&quot;&gt;ACM Computing Surveys paper&lt;/a&gt; and will be focusing on comparing the methodologies of representative works.&lt;/p&gt;
 
 &lt;p&gt;We hope to release the full text and other relevant materials soon.&lt;/p&gt;
 </content>
@@ -59,9 +59,9 @@ The tutorial utilizes the structure of our survey paper &lt;strong&gt;Spatial Da
 		</entry>
 	
 		<entry>
-			<id>https://msca-malot.github.io/research/1-csur/</id>
+			<id>https://msca-malot.github.io/research/1-outlier-subsequence/</id>
 			<title>Knowledge Repository on Subsequence Outlier</title>
-			<link href="https://msca-malot.github.io/research/1-csur/" rel="alternate" type="text/html" title="Knowledge Repository on Subsequence Outlier" />
+			<link href="https://msca-malot.github.io/research/1-outlier-subsequence/" rel="alternate" type="text/html" title="Knowledge Repository on Subsequence Outlier" />
 			<updated>2021-12-02T00:00:00+01:00</updated>
 
 			
@@ -75,7 +75,7 @@ The tutorial utilizes the structure of our survey paper &lt;strong&gt;Spatial Da
 				</author>
 			
 			<summary>Useful resources for subsequence outlier detection</summary>
-			<content type="html" xml:base="https://msca-malot.github.io/research/1-csur/">&lt;p&gt;Checkout our public repository on &lt;a href=&quot;https://github.com/msca-malot/awesome-subsequence-outlier&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+			<content type="html" xml:base="https://msca-malot.github.io/research/1-outlier-subsequence/">&lt;p&gt;Checkout our public repository on &lt;a href=&quot;https://github.com/msca-malot/awesome-subsequence-outlier&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </content>
 
 			
