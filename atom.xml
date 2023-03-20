@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://msca-malot.github.io/</id>
 	<title>MALOT</title>
-	<updated>2022-08-30T16:24:59+02:00</updated>
+	<updated>2023-03-20T14:52:48+08:00</updated>
 
 	<subtitle>The EU MSCA Individual Fellowship</subtitle>
 
@@ -22,14 +22,45 @@
 	<link href="https://msca-malot.github.io/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="https://msca-malot.github.io/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
 
 	
 		<entry>
+			<id>https://msca-malot.github.io/research/icde-bisim/</id>
+			<title>[ICDE] Data Imputation for Sparse Radio Maps in Indoor Positioning</title>
+			<link href="https://msca-malot.github.io/research/icde-bisim/" rel="alternate" type="text/html" title="[ICDE] Data Imputation for Sparse Radio Maps in Indoor Positioning" />
+			<updated>2023-03-19T00:00:00+08:00</updated>
+
+			
+				
+				<author>
+					
+						<name>huan li</name>
+					
+					
+					
+				</author>
+			
+			<summary>a paper has been accepted by ICDE</summary>
+			<content type="html" xml:base="https://msca-malot.github.io/research/icde-bisim/">&lt;p&gt;A new paper entitled “Data imputation for sparse radio maps in indoor positioning” by Xiao Li, Huan Li, Harry Kai-Ho Chan, Hua Lu, and Christian S. Jensen has been accepted by ICDE 2023.
+Please checkout the paperswithcode at &lt;a href=&quot;https://cs.paperswithcode.com/paper/data-imputation-for-sparse-radio-maps-in&quot;&gt;https://cs.paperswithcode.com/paper/data-imputation-for-sparse-radio-maps-in&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="research" />
+			
+
+			<published>2023-03-19T00:00:00+08:00</published>
+		</entry>
+	
+		<entry>
 			<id>https://msca-malot.github.io/research/1-vldb-sqm/</id>
-			<title>Edge Computing for Spatiotemporal Quantile Monitoring</title>
-			<link href="https://msca-malot.github.io/research/1-vldb-sqm/" rel="alternate" type="text/html" title="Edge Computing for Spatiotemporal Quantile Monitoring" />
-			<updated>2022-04-18T00:00:00+02:00</updated>
+			<title>[PVLDB] Edge Computing for Spatiotemporal Quantile Monitoring</title>
+			<link href="https://msca-malot.github.io/research/1-vldb-sqm/" rel="alternate" type="text/html" title="[PVLDB] Edge Computing for Spatiotemporal Quantile Monitoring" />
+			<updated>2022-04-18T00:00:00+08:00</updated>
 
 			
 				
@@ -62,14 +93,14 @@ The results show that our proposals achieve efficient, scalable, and error-bound
 				<category term="research" />
 			
 
-			<published>2022-04-18T00:00:00+02:00</published>
+			<published>2022-04-18T00:00:00+08:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/research/1-sigmod-tutorial/</id>
-			<title>SIGMOD Tutorial on IoT Spatial Data Quality</title>
-			<link href="https://msca-malot.github.io/research/1-sigmod-tutorial/" rel="alternate" type="text/html" title="SIGMOD Tutorial on IoT Spatial Data Quality" />
-			<updated>2022-02-01T00:00:00+01:00</updated>
+			<title>[SIGMOD] Tutorial on IoT Spatial Data Quality</title>
+			<link href="https://msca-malot.github.io/research/1-sigmod-tutorial/" rel="alternate" type="text/html" title="[SIGMOD] Tutorial on IoT Spatial Data Quality" />
+			<updated>2022-02-01T00:00:00+08:00</updated>
 
 			
 				
@@ -95,14 +126,14 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 				<category term="research" />
 			
 
-			<published>2022-02-01T00:00:00+01:00</published>
+			<published>2022-02-01T00:00:00+08:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/research/1-outlier-subsequence/</id>
 			<title>Knowledge Repository on Subsequence Outlier</title>
 			<link href="https://msca-malot.github.io/research/1-outlier-subsequence/" rel="alternate" type="text/html" title="Knowledge Repository on Subsequence Outlier" />
-			<updated>2021-12-02T00:00:00+01:00</updated>
+			<updated>2021-12-02T00:00:00+08:00</updated>
 
 			
 				
@@ -125,14 +156,14 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 				<category term="research" />
 			
 
-			<published>2021-12-02T00:00:00+01:00</published>
+			<published>2021-12-02T00:00:00+08:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/research/1-csur/</id>
 			<title>ACM Computing Surveys Paper on IoT Spatial Data Quality</title>
 			<link href="https://msca-malot.github.io/research/1-csur/" rel="alternate" type="text/html" title="ACM Computing Surveys Paper on IoT Spatial Data Quality" />
-			<updated>2021-11-25T00:00:00+01:00</updated>
+			<updated>2021-11-25T00:00:00+08:00</updated>
 
 			
 				
@@ -163,14 +194,14 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 				<category term="research" />
 			
 
-			<published>2021-11-25T00:00:00+01:00</published>
+			<published>2021-11-25T00:00:00+08:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/career%20development/2-pedagogy/</id>
 			<title>University Pedagogy Training Start</title>
 			<link href="https://msca-malot.github.io/career%20development/2-pedagogy/" rel="alternate" type="text/html" title="University Pedagogy Training Start" />
-			<updated>2021-01-29T00:00:00+01:00</updated>
+			<updated>2021-01-29T00:00:00+08:00</updated>
 
 			
 				
@@ -199,14 +230,14 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 				<category term="career development" />
 			
 
-			<published>2021-01-29T00:00:00+01:00</published>
+			<published>2021-01-29T00:00:00+08:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/research/1-covid-iot/</id>
 			<title>New COVID Survey Paper Published</title>
 			<link href="https://msca-malot.github.io/research/1-covid-iot/" rel="alternate" type="text/html" title="New COVID Survey Paper Published" />
-			<updated>2021-01-29T00:00:00+01:00</updated>
+			<updated>2021-01-29T00:00:00+08:00</updated>
 
 			
 				
@@ -239,14 +270,14 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 				<category term="research" />
 			
 
-			<published>2021-01-29T00:00:00+01:00</published>
+			<published>2021-01-29T00:00:00+08:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/project%20management/1-quarter-progress/</id>
 			<title>Quarter 1 Project Report</title>
 			<link href="https://msca-malot.github.io/project%20management/1-quarter-progress/" rel="alternate" type="text/html" title="Quarter 1 Project Report" />
-			<updated>2020-10-15T00:00:00+02:00</updated>
+			<updated>2020-10-15T00:00:00+08:00</updated>
 
 			
 				
@@ -289,14 +320,14 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 				<category term="project management" />
 			
 
-			<published>2020-10-15T00:00:00+02:00</published>
+			<published>2020-10-15T00:00:00+08:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/project%20management/2-plans-july-2020/</id>
 			<title>Plans of July 2020</title>
 			<link href="https://msca-malot.github.io/project%20management/2-plans-july-2020/" rel="alternate" type="text/html" title="Plans of July 2020" />
-			<updated>2020-06-30T00:00:00+02:00</updated>
+			<updated>2020-06-30T00:00:00+08:00</updated>
 
 			
 				
@@ -323,14 +354,14 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 				<category term="project management" />
 			
 
-			<published>2020-06-30T00:00:00+02:00</published>
+			<published>2020-06-30T00:00:00+08:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://msca-malot.github.io/dissemination/1-website-start/</id>
 			<title>Project Website is Now Online</title>
 			<link href="https://msca-malot.github.io/dissemination/1-website-start/" rel="alternate" type="text/html" title="Project Website is Now Online" />
-			<updated>2020-06-30T00:00:00+02:00</updated>
+			<updated>2020-06-30T00:00:00+08:00</updated>
 
 			
 				
@@ -355,100 +386,7 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 				<category term="dissemination" />
 			
 
-			<published>2020-06-30T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://msca-malot.github.io/project%20management/get-into-implementation/</id>
-			<title>Get into MSCA Implementation</title>
-			<link href="https://msca-malot.github.io/project%20management/get-into-implementation/" rel="alternate" type="text/html" title="Get into MSCA Implementation" />
-			<updated>2020-04-08T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>huan li</name>
-					
-					
-					
-				</author>
-			
-			<summary>I am excited and looking forward to starting my MSCA project next week. I have read a documentation about how to implement the MSCA. I would like to share some useful information and also keep them as a memorandum.</summary>
-			<content type="html" xml:base="https://msca-malot.github.io/project%20management/get-into-implementation/">&lt;p&gt;I am excited and looking forward to starting my MSCA project next week. I have read a documentation about how to implement the MSCA. I would like to share some useful information and also keep them as a memorandum.&lt;/p&gt;
-
-&lt;h3 id=&quot;open-access&quot;&gt;Open Access&lt;/h3&gt;
-
-&lt;p&gt;There are two parts about Open Access (OA), namely OA for publication and OA for data.&lt;/p&gt;
-
-&lt;p&gt;For publication OA, all peer-reviewed publications in this project should be either green OA or golden OA.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Green OA means the beneficiaries can deposit the final peer-reviewed manuscript in a repository of their choice. Some good repository for MSCA could be https://www.openaire.eu/.&lt;/li&gt;
-  &lt;li&gt;Golden OA means the publication can be in open access journals, or in hybrid journals that both sell subscriptions and offer the option of making individual articles openly accessible.
-Links to the repositories in question must be provided in the system (Project Continuous Reporting).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For research data OA, one must submit a Data Management Plan within 6 months of the start of the action and the obligation to deposit the research data in a research data repository (e.g, Zenodo).&lt;/p&gt;
-
-&lt;h3 id=&quot;acknowledgement-of-eu-funding&quot;&gt;Acknowledgement of EU Funding&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No [number].&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;career-development-plan&quot;&gt;Career Development Plan&lt;/h3&gt;
-
-&lt;p&gt;The Plan should define the training requirements, taking into account the research objectives and subsequent career goals. No template is provided.&lt;/p&gt;
-
-&lt;h3 id=&quot;deliverables-to-report&quot;&gt;Deliverables to Report&lt;/h3&gt;
-
-&lt;p&gt;there are two types of deliverables which may have to be reported:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Data Management Plan: a document outlining how the research data will be handled during your project, and after it is completed. It describes what data will be collected / generated; what methodology and standards are used; whether and how this data will be shared and/or made open; and how it will be curated and preserved. The DMP must be submitted within the first 6 months of the project. A DMP template is available at&lt;/li&gt;
-  &lt;li&gt;Ethics requirements (if there were ethical issues)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;unit-costs&quot;&gt;Unit Costs&lt;/h3&gt;
-
-&lt;p&gt;Two parts, namely Researcher Costs and Institutional Costs.&lt;/p&gt;
-
-&lt;p&gt;For researcher costs:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Living Allowance.&lt;/li&gt;
-  &lt;li&gt;Mobility Allowance. It is intended to cover the costs associated with the fact that you have moved to a different country in order to take up your position. This sum will not be audited and is flexible.&lt;/li&gt;
-  &lt;li&gt;Family Allowance.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;For institutional costs:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Research, Training and Network Costs. This amount is intended to cover the costs associated with your project as
-outlined in grant agreement, for example attending training courses, conferences, or when going on secondment. This should also  cover the cost of research (e.g. consumables), as appropriate, and can also be used to cover other related costs, such as visas.&lt;/li&gt;
-  &lt;li&gt;Management and Indirect Costs. This is for university.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;submission-of-reports&quot;&gt;Submission of Reports&lt;/h3&gt;
-
-&lt;p&gt;In the report, you will be required to report on the scientific progress of your project, as well as your training and transfer of knowledge activities, secondments (if any), career development, the scientific management of the project, dissemination and communication activities, and on the project’s overall impact.&lt;/p&gt;
-
-&lt;p&gt;Your report must be submitted within 60 days following the end date of the project. Submission of this report is a precondition for payment of the remaining amounts.&lt;/p&gt;
-
-&lt;h3 id=&quot;submission-of-questionnaires&quot;&gt;Submission of Questionnaires&lt;/h3&gt;
-
-&lt;p&gt;The funded researchers are requested to submit two questionnaires about their experience: one immediately following the completion of the project (“Evaluation Questionnaire”) and one two years later (“Follow-up Questionnaire”)&lt;/p&gt;
-
-&lt;h3 id=&quot;the-marie-curie-alumni-association&quot;&gt;The Marie Curie Alumni Association&lt;/h3&gt;
-
-&lt;p&gt;Established as a not-for-profit organization in 2014, the Association offers opportunities for networking and peer exchange, an alumni directory, job offers, an events calendar, and other services of potential interest to IF researchers.&lt;/p&gt;
-</content>
-
-			
-				<category term="project management" />
-			
-			
-				<category term="project management" />
-			
-
-			<published>2020-04-08T00:00:00+02:00</published>
+			<published>2020-06-30T00:00:00+08:00</published>
 		</entry>
 	
 </feed>

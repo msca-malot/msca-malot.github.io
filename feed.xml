@@ -9,9 +9,19 @@
 		<atom:link href="https://msca-malot.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Edge Computing for Spatiotemporal Quantile Monitoring</title>
+				<title>[ICDE] Data Imputation for Sparse Radio Maps in Indoor Positioning</title>
+				<link>https://msca-malot.github.io/research/icde-bisim/</link>
+				<pubDate>Sun, 19 Mar 2023 00:00:00 +0800</pubDate>
+				<description>&lt;p&gt;A new paper entitled “Data imputation for sparse radio maps in indoor positioning” by Xiao Li, Huan Li, Harry Kai-Ho Chan, Hua Lu, and Christian S. Jensen has been accepted by ICDE 2023.
+Please checkout the paperswithcode at &lt;a href=&quot;https://cs.paperswithcode.com/paper/data-imputation-for-sparse-radio-maps-in&quot;&gt;https://cs.paperswithcode.com/paper/data-imputation-for-sparse-radio-maps-in&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://msca-malot.github.io/research/icde-bisim/</guid>
+			</item>
+		
+			<item>
+				<title>[PVLDB] Edge Computing for Spatiotemporal Quantile Monitoring</title>
 				<link>https://msca-malot.github.io/research/1-vldb-sqm/</link>
-				<pubDate>Mon, 18 Apr 2022 00:00:00 +0200</pubDate>
+				<pubDate>Mon, 18 Apr 2022 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;We have a research paper “Efficient and Error-Bounded Spatiotemporal Quantile Monitoring in Edge Computing Environments” accepted by PVLDB vol. 15. The abstract is as follows.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Underlying many types of data analytics, a spatiotemporal quantile monitoring (SQM) query continuously returns the quantiles of a data set observed in a spatiotemporal range. In this paper, we study SQM in an IoT-based edge computing environment, where concurrent SQM queries share the same infrastructure asynchronously. Our goal is to minimize query latency while providing result accuracy guarantees.
@@ -28,9 +38,9 @@ The results show that our proposals achieve efficient, scalable, and error-bound
 			</item>
 		
 			<item>
-				<title>SIGMOD Tutorial on IoT Spatial Data Quality</title>
+				<title>[SIGMOD] Tutorial on IoT Spatial Data Quality</title>
 				<link>https://msca-malot.github.io/research/1-sigmod-tutorial/</link>
-				<pubDate>Tue, 01 Feb 2022 00:00:00 +0100</pubDate>
+				<pubDate>Tue, 01 Feb 2022 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;Our proposal entitled &lt;strong&gt;Spatial data quality in the IoT era: Management and exploitation&lt;/strong&gt; submitted to SIGMOD 2022 tutorial track has been accepted.
 The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.github.io/publication/sid/CSUR_2021_GreenOA.pdf&quot;&gt;ACM Computing Surveys paper&lt;/a&gt; and will be focusing on comparing the methodologies of representative works.&lt;/p&gt;
 
@@ -42,7 +52,7 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 			<item>
 				<title>Knowledge Repository on Subsequence Outlier</title>
 				<link>https://msca-malot.github.io/research/1-outlier-subsequence/</link>
-				<pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+				<pubDate>Thu, 02 Dec 2021 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;Checkout our public repository on &lt;a href=&quot;https://github.com/msca-malot/awesome-subsequence-outlier&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://msca-malot.github.io/research/1-outlier-subsequence/</guid>
@@ -51,7 +61,7 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 			<item>
 				<title>ACM Computing Surveys Paper on IoT Spatial Data Quality</title>
 				<link>https://msca-malot.github.io/research/1-csur/</link>
-				<pubDate>Thu, 25 Nov 2021 00:00:00 +0100</pubDate>
+				<pubDate>Thu, 25 Nov 2021 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;Our long survey paper entitled &lt;strong&gt;Spatial Data Quality in the Internet of Things: Management, Exploitation, and Prospects&lt;/strong&gt; has been accepted by ACM Computing Surveys (IF: 10.3). Thanks to the great collaborations with Prof. Christian S. Jensen from AAU, Prof. Hua Lu from RUC, Prof. Muhammad Aamir Cheema from Monash U, and Prof. Bo Tang from SUSTECH.&lt;/p&gt;
 
 &lt;p&gt;The abstract of this paper is as follows.&lt;/p&gt;
@@ -68,7 +78,7 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 			<item>
 				<title>University Pedagogy Training Start</title>
 				<link>https://msca-malot.github.io/career%20development/2-pedagogy/</link>
-				<pubDate>Fri, 29 Jan 2021 00:00:00 +0100</pubDate>
+				<pubDate>Fri, 29 Jan 2021 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;Last year in April I received an offer of Assistant Professor at the Department of Computer Science at Aalborg University.&lt;/p&gt;
 
 &lt;p&gt;As a follow-up, the university pedagogy training program is starting this year and for me it is anticipated to finish the training program within one year.&lt;/p&gt;
@@ -83,7 +93,7 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 			<item>
 				<title>New COVID Survey Paper Published</title>
 				<link>https://msca-malot.github.io/research/1-covid-iot/</link>
-				<pubDate>Fri, 29 Jan 2021 00:00:00 +0100</pubDate>
+				<pubDate>Fri, 29 Jan 2021 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;Our survey paper &lt;em&gt;Impact of COVID-19 on Adoption of IoT in Different Sectors&lt;/em&gt; is now released at &lt;a href=&quot;https://arxiv.org/abs/2101.07196&quot;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The abstract of this paper is as follows.&lt;/p&gt;
@@ -102,7 +112,7 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 			<item>
 				<title>Quarter 1 Project Report</title>
 				<link>https://msca-malot.github.io/project%20management/1-quarter-progress/</link>
-				<pubDate>Thu, 15 Oct 2020 00:00:00 +0200</pubDate>
+				<pubDate>Thu, 15 Oct 2020 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;A quarter of the project’s time has passed. During this six months, we have been severely affected by COVID-19. The progress in the Q1 of the project includes:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -131,7 +141,7 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 			<item>
 				<title>Plans of July 2020</title>
 				<link>https://msca-malot.github.io/project%20management/2-plans-july-2020/</link>
-				<pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
+				<pubDate>Tue, 30 Jun 2020 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;The plan of this month include:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;discuss with the supervisor and finish the career development plan.&lt;/li&gt;
@@ -144,84 +154,12 @@ The tutorial utilizes the structure of our &lt;a href=&quot;https://longaspire.g
 			<item>
 				<title>Project Website is Now Online</title>
 				<link>https://msca-malot.github.io/dissemination/1-website-start/</link>
-				<pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
+				<pubDate>Tue, 30 Jun 2020 00:00:00 +0800</pubDate>
 				<description>&lt;p&gt;Today is the last day of June, and I am very happy to announce that the project website is available from now on. We will continue to publish any news and results in this venue.&lt;/p&gt;
 
 &lt;p&gt;This website is powered by &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;JEKYLL&lt;/a&gt; based on the theme &lt;a href=&quot;http://phlow.github.io/feeling-responsive/&quot;&gt;FEELING RESPONSIVE&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://msca-malot.github.io/dissemination/1-website-start/</guid>
-			</item>
-		
-			<item>
-				<title>Get into MSCA Implementation</title>
-				<link>https://msca-malot.github.io/project%20management/get-into-implementation/</link>
-				<pubDate>Wed, 08 Apr 2020 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;I am excited and looking forward to starting my MSCA project next week. I have read a documentation about how to implement the MSCA. I would like to share some useful information and also keep them as a memorandum.&lt;/p&gt;
-
-&lt;h3 id=&quot;open-access&quot;&gt;Open Access&lt;/h3&gt;
-
-&lt;p&gt;There are two parts about Open Access (OA), namely OA for publication and OA for data.&lt;/p&gt;
-
-&lt;p&gt;For publication OA, all peer-reviewed publications in this project should be either green OA or golden OA.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Green OA means the beneficiaries can deposit the final peer-reviewed manuscript in a repository of their choice. Some good repository for MSCA could be https://www.openaire.eu/.&lt;/li&gt;
-  &lt;li&gt;Golden OA means the publication can be in open access journals, or in hybrid journals that both sell subscriptions and offer the option of making individual articles openly accessible.
-Links to the repositories in question must be provided in the system (Project Continuous Reporting).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For research data OA, one must submit a Data Management Plan within 6 months of the start of the action and the obligation to deposit the research data in a research data repository (e.g, Zenodo).&lt;/p&gt;
-
-&lt;h3 id=&quot;acknowledgement-of-eu-funding&quot;&gt;Acknowledgement of EU Funding&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No [number].&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;career-development-plan&quot;&gt;Career Development Plan&lt;/h3&gt;
-
-&lt;p&gt;The Plan should define the training requirements, taking into account the research objectives and subsequent career goals. No template is provided.&lt;/p&gt;
-
-&lt;h3 id=&quot;deliverables-to-report&quot;&gt;Deliverables to Report&lt;/h3&gt;
-
-&lt;p&gt;there are two types of deliverables which may have to be reported:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Data Management Plan: a document outlining how the research data will be handled during your project, and after it is completed. It describes what data will be collected / generated; what methodology and standards are used; whether and how this data will be shared and/or made open; and how it will be curated and preserved. The DMP must be submitted within the first 6 months of the project. A DMP template is available at&lt;/li&gt;
-  &lt;li&gt;Ethics requirements (if there were ethical issues)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;unit-costs&quot;&gt;Unit Costs&lt;/h3&gt;
-
-&lt;p&gt;Two parts, namely Researcher Costs and Institutional Costs.&lt;/p&gt;
-
-&lt;p&gt;For researcher costs:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Living Allowance.&lt;/li&gt;
-  &lt;li&gt;Mobility Allowance. It is intended to cover the costs associated with the fact that you have moved to a different country in order to take up your position. This sum will not be audited and is flexible.&lt;/li&gt;
-  &lt;li&gt;Family Allowance.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;For institutional costs:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Research, Training and Network Costs. This amount is intended to cover the costs associated with your project as
-outlined in grant agreement, for example attending training courses, conferences, or when going on secondment. This should also  cover the cost of research (e.g. consumables), as appropriate, and can also be used to cover other related costs, such as visas.&lt;/li&gt;
-  &lt;li&gt;Management and Indirect Costs. This is for university.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;submission-of-reports&quot;&gt;Submission of Reports&lt;/h3&gt;
-
-&lt;p&gt;In the report, you will be required to report on the scientific progress of your project, as well as your training and transfer of knowledge activities, secondments (if any), career development, the scientific management of the project, dissemination and communication activities, and on the project’s overall impact.&lt;/p&gt;
-
-&lt;p&gt;Your report must be submitted within 60 days following the end date of the project. Submission of this report is a precondition for payment of the remaining amounts.&lt;/p&gt;
-
-&lt;h3 id=&quot;submission-of-questionnaires&quot;&gt;Submission of Questionnaires&lt;/h3&gt;
-
-&lt;p&gt;The funded researchers are requested to submit two questionnaires about their experience: one immediately following the completion of the project (“Evaluation Questionnaire”) and one two years later (“Follow-up Questionnaire”)&lt;/p&gt;
-
-&lt;h3 id=&quot;the-marie-curie-alumni-association&quot;&gt;The Marie Curie Alumni Association&lt;/h3&gt;
-
-&lt;p&gt;Established as a not-for-profit organization in 2014, the Association offers opportunities for networking and peer exchange, an alumni directory, job offers, an events calendar, and other services of potential interest to IF researchers.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">https://msca-malot.github.io/project%20management/get-into-implementation/</guid>
 			</item>
 		
 	</channel>
